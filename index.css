@@ -2,7 +2,7 @@
 /* CSS Document */
 
 
-.back{height:400px; width:100%; margin:0; padding:1px 0 0 0; ; background: linear-gradient(45deg, #76008A, #E9aa5E); }
+.back{height:800px; width:100%; margin:0; padding:1px 0 0 0; ; background: linear-gradient(45deg, #76008A, #E9aa5E); }
 
 .ana{height: 50px; width:525px; margin:auto;}
 .ana ul{position: relative; gap:25px; display: flex; padding: 0; margin: 200px auto;}
