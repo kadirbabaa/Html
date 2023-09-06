@@ -2,9 +2,9 @@
 /* CSS Document */
 
 
-.back{height: 100%; width:auto; margin: 0; padding: 250px 250px 0px 250px ; background: linear-gradient(45deg, #76008A, #E9aa5E); }
+.back{height: 100%; width:auto; margin: 0; padding: 250px 0 ; background: linear-gradient(45deg, #76008A, #E9aa5E); }
 
-.ana{height: 50px; width:auto; margin: 0 0 0 200px;}
+.ana{height: 50px; width:auto; margin: 0 0 0 400px;}
 .ana ul{position: relative; gap:25px; display: flex;}
 
 .ana li{list-style: none; float: left; cursor: pointer; content: ; position: relative; inset:0; opacity:1; transition: 0.35s;}
