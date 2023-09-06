@@ -2,12 +2,12 @@
 /* CSS Document */
 
 
-.back{height: 100%; width:auto; margin: 0; padding: 250px 0 ; background: linear-gradient(45deg, #76008A, #E9aa5E); }
+.back{height:400px; width:100%; margin:0; padding:1px 0 0 0; ; background: linear-gradient(45deg, #76008A, #E9aa5E); }
 
-.ana{height: 50px; width:auto; margin: 0 0 0 400px;}
-.ana ul{position: relative; gap:25px; display: flex;}
+.ana{height: 50px; width:525px; margin:auto;}
+.ana ul{position: relative; gap:25px; display: flex; padding: 0; margin: 200px auto;}
 
-.ana li{list-style: none; float: left; cursor: pointer; content: ; position: relative; inset:0; opacity:1; transition: 0.35s;}
+.ana li{list-style: none; float: left; cursor: pointer; position: relative; inset:0; opacity:1; transition: 0.35s;}
 
 .ana li#in{height: 50px; width: 50px;  background:#DEDEDE; background-image: url("img/in.png"); background-size: 30px; background-repeat: no-repeat; background-position: center; box-shadow: 1px 2px 30px #00f; border-radius: 25px;}
 .ana ul li#in:hover{width: 150px; background-color: #4146AF; background-image: url("img/linkedin.png"); background-size: 120px; background-repeat: no-repeat; background-position: center;}
@@ -32,6 +32,4 @@
 .ana li#ytb{height: 50px; width: 50px;  background:#DEDEDE; background-image: url("img/ytb.png"); background-size: 30px; background-repeat: no-repeat; background-position: center; box-shadow: 1px 2px 30px #f00; border-radius: 25px;}
 .ana ul li#ytb:hover{width: 150px; background-color: #f00; background-image: url("img/youtubee.png"); background-size: 80px; background-repeat: no-repeat; background-position: center;}
 
-.zort{width: auto; height: auto; margin: 200px 0; padding: 0 20px 0 0; font: normal 16px Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; opacity: 0.2; text-align: right; background-image: url("img/copyright.png"); background-repeat: no-repeat; background-size:16px; background-position: right;}
-
-
+.zort{width: 150px; height: 20px; margin:125px auto; padding: 0; font: normal 16px Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; opacity: 0.2; position: relative; float: center; background-image: url("img/copyright.png"); background-repeat: no-repeat; background-size:16px; background-position: right;}
